@@ -1,0 +1,7 @@
+{
+  "tenantId": "00000000-0000-0000-0000-000000000000",
+  "clientId": "00000000-0000-0000-0000-000000000000",
+  "certificatePath": "/opt/entra-automation/secrets/graph-automation.pfx",
+  "outputPath": "./output"
+}
+

@@ -1,0 +1,45 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+config/lab.json
+secrets/
+private/
+*.log
+*.zip
+*.tar.gz
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Generated output
+output/*
+!output/.gitkeep
+TestResults/
+testResults.xml
+coverage.xml
+
+# PowerShell / editor files
+*.clixml
+.DS_Store
+.vscode/settings.json
+ModuleAnalysisCache-*
+
+# Terraform working data, state, plans, and real variable values
+**/.terraform/*
+.terraformrc
+terraform.rc
+.terraform.tfstate.lock.info
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars.json
+*.tfvars
+!*.example.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log
+crash.*.log

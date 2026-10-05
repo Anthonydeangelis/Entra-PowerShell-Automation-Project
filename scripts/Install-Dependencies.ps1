@@ -1,0 +1,1 @@
+Install-Module Microsoft.Graph -Scope CurrentUser -Repository PSGallery -Force

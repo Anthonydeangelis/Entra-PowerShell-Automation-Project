@@ -1,0 +1,26 @@
+GivenName,Surname,DisplayName,UserName,Department,JobTitle,UsageLocation,AccountEnabled
+Avery,Bennett,Avery Bennett,avery.bennett,IT,Help Desk Technician,US,True
+Jordan,Ellis,Jordan Ellis,jordan.ellis,IT,Help Desk Technician,US,True
+Morgan,Reed,Morgan Reed,morgan.reed,IT,Systems Administrator,US,True
+Casey,Patel,Casey Patel,casey.patel,IT,Network Administrator,GB,True
+Riley,Chen,Riley Chen,riley.chen,IT,IT Manager,CA,True
+Taylor,Brooks,Taylor Brooks,taylor.brooks,Sales,Sales Representative,US,True
+Cameron,Hayes,Cameron Hayes,cameron.hayes,Sales,Sales Representative,US,True
+Quinn,Rivera,Quinn Rivera,quinn.rivera,Sales,Account Executive,CA,True
+Parker,Shaw,Parker Shaw,parker.shaw,Sales,Account Executive,GB,True
+Reese,Cooper,Reese Cooper,reese.cooper,Sales,Sales Manager,US,True
+Jamie,Foster,Jamie Foster,jamie.foster,HR,HR Coordinator,US,True
+Alex,Morgan,Alex Morgan,alex.morgan,HR,HR Coordinator,CA,True
+Drew,Collins,Drew Collins,drew.collins,HR,Recruiter,US,True
+Skyler,Price,Skyler Price,skyler.price,HR,Recruiter,GB,True
+Rowan,Hughes,Rowan Hughes,rowan.hughes,HR,HR Manager,US,True
+Emerson,Ward,Emerson Ward,emerson.ward,Finance,Accountant,US,True
+Finley,Ross,Finley Ross,finley.ross,Finance,Accountant,CA,True
+Harper,Gray,Harper Gray,harper.gray,Finance,Financial Analyst,US,True
+Logan,Bell,Logan Bell,logan.bell,Finance,Payroll Specialist,GB,True
+Sage,Turner,Sage Turner,sage.turner,Finance,Finance Manager,US,True
+Dakota,Evans,Dakota Evans,dakota.evans,Marketing,Marketing Coordinator,US,True
+Kendall,Scott,Kendall Scott,kendall.scott,Marketing,Marketing Coordinator,CA,True
+Blair,Adams,Blair Adams,blair.adams,Marketing,Content Specialist,US,True
+Devon,Clark,Devon Clark,devon.clark,Marketing,Graphic Designer,GB,True
+Sydney,Green,Sydney Green,sydney.green,Marketing,Marketing Manager,US,True
