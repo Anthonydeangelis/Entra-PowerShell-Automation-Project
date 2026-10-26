@@ -8,9 +8,9 @@ Solid redactions cover the subscription ID, group object IDs, user principal nam
 
 ## Azure foundation
 
-### Initial powershell runtime
+### Initial PowerShell runtime
 
-![initial powershell runtime](../Images/2026-09-25/initial-powershell-runtime.png)
+![Initial PowerShell runtime](../Images/2026-09-25/initial-powershell-runtime.png)
 
 ### Automation resource group
 
@@ -24,35 +24,35 @@ Solid redactions cover the subscription ID, group object IDs, user principal nam
 
 ![automation storage roles](../Images/2026-09-25/automation-storage-roles.png)
 
-### Inventory csv output
+### Inventory CSV output
 
-![inventory csv output](../Images/2026-09-26/inventory-csv-output.png)
+![Inventory CSV output](../Images/2026-09-26/inventory-csv-output.png)
 
 ## GitHub deployment and Graph setup
 
-### Github deployment app
+### GitHub deployment app
 
-![github deployment app](../Images/2026-09-27/github-deployment-app.png)
+![GitHub deployment app](../Images/2026-09-27/github-deployment-app.png)
 
 ### Original source control
 
 ![original source control](../Images/2026-09-27/original-source-control.png)
 
-### Github federated credential
+### GitHub federated credential
 
-![github federated credential](../Images/2026-09-27/github-federated-credential.png)
+![GitHub federated credential](../Images/2026-09-27/github-federated-credential.png)
 
 ### Deployment automation contributor
 
 ![deployment automation contributor](../Images/2026-09-27/deployment-automation-contributor.png)
 
-### Github actions secret names
+### GitHub actions secret names
 
-![github actions secret names](../Images/2026-09-27/github-actions-secret-names.png)
+![GitHub actions secret names](../Images/2026-09-27/github-actions-secret-names.png)
 
-### Github azure login success
+### GitHub azure login success
 
-![github azure login success](../Images/2026-09-27/github-azure-login-success.png)
+![GitHub azure login success](../Images/2026-09-27/github-azure-login-success.png)
 
 ### Graph permissions assigned
 
@@ -78,25 +78,25 @@ Solid redactions cover the subscription ID, group object IDs, user principal nam
 
 ## CSV user creation
 
-### Key vault secret list
+### Key Vault secret list
 
-![key vault secret list](../Images/2026-09-28/key-vault-secret-list.png)
+![Key Vault secret list](../Images/2026-09-28/key-vault-secret-list.png)
 
-### Csv upload powershell
+### CSV upload in PowerShell
 
-![csv upload powershell](../Images/2026-09-28/csv-upload-powershell.png)
+![CSV upload in PowerShell](../Images/2026-09-28/csv-upload-powershell.png)
 
 ### Operator storage role
 
 ![operator storage role](../Images/2026-09-28/operator-storage-role.png)
 
-### Csv blob input
+### CSV blob input
 
-![csv blob input](../Images/2026-09-28/csv-blob-input.png)
+![CSV blob input](../Images/2026-09-28/csv-blob-input.png)
 
-### Key vault secrets user
+### Key Vault secrets user
 
-![key vault secrets user](../Images/2026-09-28/key-vault-secrets-user.png)
+![Key Vault secrets user](../Images/2026-09-28/key-vault-secrets-user.png)
 
 ### User creation completed
 

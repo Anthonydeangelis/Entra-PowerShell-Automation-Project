@@ -1,6 +1,6 @@
 # Project milestones
 
-The [README](../README.md) contains the illustrated walkthrough. This summary records completed work, not a deployment checklist.
+The [illustrated walkthrough](lab-walkthrough.md) contains the detailed evidence; the [README](../README.md) provides the project overview. This summary records completed work, not a deployment checklist.
 
 ## Development and Azure foundation
 
